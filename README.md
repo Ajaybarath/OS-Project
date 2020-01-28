@@ -2,7 +2,7 @@
 
 ## Round Robin Algorithm ##
 
-**Description**  This project was made for my college assessment and it was made using _C_ implementing _Round Robin Algorithm_. 
+**Description** This project was made for my college assessment and it was made using _C_ implementing _Round Robin Algorithm_. 
 
 To run the code:
 
